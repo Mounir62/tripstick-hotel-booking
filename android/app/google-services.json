@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1082138852451",
+    "project_id": "tripstick-615ef",
+    "storage_bucket": "tripstick-615ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082138852451:android:75d54b220040022a690c56",
+        "android_client_info": {
+          "package_name": "com.msa.tripstick"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRz95XrsM_YDDcNZAiW6qiT_biOJpxEeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082138852451:android:efeecb8ab7cd7395690c56",
+        "android_client_info": {
+          "package_name": "com.msa.tripstick.tripstick"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRz95XrsM_YDDcNZAiW6qiT_biOJpxEeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
