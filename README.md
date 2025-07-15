@@ -9,9 +9,9 @@ A **cross‑platform** mobile application for **seamless**, **intuitive** worldw
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="docs/screenshots/home.png" alt="Home Screen" width="200" />
-  <img src="docs/screenshots/search.png" alt="Search Screen" width="200" />
-  <img src="docs/screenshots/reservations.png" alt="Reservations Screen" width="200" />
+  <img src="Snapshots/5.jpeg" alt="Account Screen" width="200" />
+  <img src="Snapshots/3.jpeg" alt="Search Screen" width="200" />
+  <img src="Snapshots/2.jpeg" alt="Reservations Screen" width="200" />
 </p>
 
 ---
