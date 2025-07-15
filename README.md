@@ -1,6 +1,6 @@
 # TripStick 🏨✨
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=white)](https://flutter.dev/) [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart\&logoColor=white)](https://dart.dev/) [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase\&logoColor=black)](https://firebase.google.com/) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=white)](https://flutter.dev/) [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart\&logoColor=white)](https://dart.dev/) [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase\&logoColor=black)](https://firebase.google.com/)
 
 A **cross‑platform** mobile application for **seamless**, **intuitive** worldwide hotel booking. Built with **Flutter** and **Firebase**, TripStick connects you to real‑time hotel data and gives you a personalized, streamlined reservation flow.
 
