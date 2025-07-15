@@ -49,7 +49,7 @@ A **cross‑platform** mobile application for **seamless**, **intuitive** worldw
 ```plaintext
 tripstick-hotel-booking/
 ├── android/…
-├── ios/…
+├── Snapshots/…
 ├── lib/
 │   ├── main.dart
 │   ├── screens/
@@ -58,7 +58,6 @@ tripstick-hotel-booking/
 ├── assets/
 │   ├── images/
 │   └── fonts/
-├── pubspec.yaml
 └── README.md
 ```
 
