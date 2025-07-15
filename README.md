@@ -58,8 +58,6 @@ tripstick-hotel-booking/
 ├── assets/
 │   ├── images/
 │   └── fonts/
-├── docs/
-│   └── screenshots/
 ├── pubspec.yaml
 └── README.md
 ```
